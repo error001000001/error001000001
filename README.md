@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi there 👋, I'm Ivan 🧙‍♂️
+
+## 🚀 About Me
+* I love 🎃🍭 Halloween 🍬🧛
+
+## 🛠 Skills
+AWS, Kubernetes, Docker, GitLab CI/CD, Ansible, Bash, Python, QEMU/KVM Virtualization, Proxmox Virtualization, VMWare Esxi Virtualization, RedHat CentOS 7 Server, Alma Linux Server, Ubuntu Server, Prometheus & Grafana
 
 <!--
 **error001000001/error001000001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
